@@ -259,6 +259,7 @@
 				5FA8174019B0151200CFC3F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

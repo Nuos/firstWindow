@@ -1,3 +1,11 @@
+//
+//  main.cpp
+//  first-window
+//
+//  Created by sbx_fc on 15-1-14.
+//  Copyright (c) 2015年 http://rungame.me All rights reserved.
+//
+
 #include <GLFW/glfw3.h>
 
 int main(void)
